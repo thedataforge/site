@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- Claws -->
+  <path fill="#ffb6c1" d="M11 9.5l-1-2.5L11 8.5l1-2.5L13 8.5l1-2.5 1 2.5"/>
+  <path fill="#ffb6c1" d="M19 9.5l-1-2.5L19 8.5l1-2.5L21 8.5l1-2.5 1 2.5"/>
+  <path fill="#ffb6c1" d="M15 7.5l-1-2.5L15 6.5l1-2.5L17 6.5l1-2.5 1 2.5"/>
+  
+  <!-- Main pad with fur texture -->
+  <path fill="#ff69b4" d="M16 21.5c-2.5 0-4.5-2-4.5-4.5 0-2.5 2-4.5 4.5-4.5s4.5 2 4.5 4.5c0 2.5-2 4.5-4.5 4.5z"/>
+  <path fill="#ff7eb6" d="M16 20.5c-1.9 0-3.5-1.6-3.5-3.5 0-1.9 1.6-3.5 3.5-3.5s3.5 1.6 3.5 3.5c0 1.9-1.6 3.5-3.5 3.5z"/>
+  
+  <!-- Toe beans with highlights -->
+  <circle fill="#ff69b4" cx="11" cy="13" r="3"/>
+  <circle fill="#ff7eb6" cx="11" cy="13" r="2"/>
+  <circle fill="#ffd1dc" cx="10.5" cy="12.5" r="0.8"/>
+  
+  <circle fill="#ff69b4" cx="21" cy="13" r="3"/>
+  <circle fill="#ff7eb6" cx="21" cy="13" r="2"/>
+  <circle fill="#ffd1dc" cx="20.5" cy="12.5" r="0.8"/>
+  
+  <circle fill="#ff69b4" cx="16" cy="11" r="3"/>
+  <circle fill="#ff7eb6" cx="16" cy="11" r="2"/>
+  <circle fill="#ffd1dc" cx="15.5" cy="10.5" r="0.8"/>
+  
+  <!-- Point indicator for cursor precision -->
+  <circle fill="#ff69b4" cx="16" cy="17" r="0.7"/>
+</svg>
